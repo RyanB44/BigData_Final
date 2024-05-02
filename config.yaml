@@ -1,0 +1,6 @@
+redis:
+  host: redis-13193.c251.east-us-mz.azure.redns.redis-cloud.com
+  db: 0
+  user: default
+  password: PASSWORD HERE
+  port: 13193
